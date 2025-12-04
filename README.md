@@ -37,17 +37,8 @@ This mini-project uses an ESP32 to extend the range of an existing Wi-Fi network
 8. Save and restart the ESP32. Devices connecting to the extender should now have internet via NAT.
 
 ## Files in repository
-- `docs/Wi-Fi extender.pptx` — Presentation with project overview and cost analysis.
+- `Wi-Fi extender.pptx` — Presentation with project overview and cost analysis.
 - `README.md` — This file.
-- `.gitignore` — Common ignores for development files.
-
-## Contributors
-- Nandana Shibu
-- Anusree Pradeep
-- Arunima Sudheer
-- Bhadra J R
-- Gopika S Dhilip
-- Sandhya M
 
 ## References
 - ESP32 NAT Router firmware (GitHub)
