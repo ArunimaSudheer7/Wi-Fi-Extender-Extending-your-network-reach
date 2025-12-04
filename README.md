@@ -42,4 +42,4 @@ This mini-project uses an ESP32 to extend the range of an existing Wi-Fi network
 
 ## References
 - ESP32 NAT Router firmware (GitHub)
-- Tutorials & videos linked in the presentation
+- Tutorials & videos linked in the presentation.
